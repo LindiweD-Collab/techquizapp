@@ -8,7 +8,7 @@ The "Interactive Quiz App" as detailed in the Immersion Day Challenge.
 **Core Task:** Develop a quiz application with tech-related categories and questions.
 
 **Primary Skills:**
-DOM (Document Object Model) manipulation
+DOM (Document Object Model) manipulation.
 Basic JavaScript logic
 
 ## Ⅱ. Core Functionality & Features
@@ -47,7 +47,7 @@ When adding questions, admins also provide the correct answer.
 
 **High Score Persistence:**
 High scores get saved.
-We using localStorage (client-side)
+We use `localStorage` (client-side)
 
 **Randomization:**
 Questions within a category are shuffled.
@@ -57,8 +57,11 @@ The order of multiple-choice answers for each question should also be shuffled.
 
 ## Ⅵ. Technologies Used
 HTML
-CSS (with Tailwind CSS for styling)
+
+CSS (with Tailwind CSS for styling
+)
 JavaScript 
+
 `localStorage` for client-side data storage
 
 ## Ⅶ. Getting Started / Setup
@@ -73,4 +76,4 @@ cd `https://github.com/LindiweD-Collab/techquizapp`
 ## Ⅷ. Submission Requirements
 **Hosted Application:** The final quiz application will hosted online and publicly accessible.
 
-**Source Code:** `https://github.com/LindiweD-Collab/techquizapp`
+**Source Code:** https://github.com/LindiweD-Collab/techquizapp
