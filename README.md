@@ -55,7 +55,22 @@ The order of multiple-choice answers for each question should also be shuffled.
 
 **Responsive Design:** The application is fully responsive and provides a good user experience on mobile devices.
 
-## Ⅵ. Submission Requirements
+## Ⅵ. Technologies Used
+HTML
+CSS (with Tailwind CSS for styling)
+JavaScript 
+`localStorage` for client-side data storage
+
+## Ⅶ. Getting Started / Setup
+**Clone the repository:**
+git clone `https://github.com/LindiweD-Collab/techquizapp`
+
+
+**Navigate to the project directory:**
+cd `https://github.com/LindiweD-Collab/techquizapp`
+
+
+## Ⅷ. Submission Requirements
 **Hosted Application:** The final quiz application will hosted online and publicly accessible.
 
-**Source Code:** The complete source code provided via a GitHub repository link.
+**Source Code:** `https://github.com/LindiweD-Collab/techquizapp`
