@@ -14,13 +14,13 @@ Basic JavaScript logic
 ## Ⅱ. Core Functionality & Features
 **Question & Answer System:**
 The app presents questions to the user.
-Each question should have multiple-choice answers.
+Each question have multiple-choice answers.
 
 **Scoring System:** Implement a system to track and display the user's score.
 
-**Tech-Related Content:** Quizzes should feature categories and questions related to technology.
+**Tech-Related Content:** Quizzes feature categories and questions related to technology.
 
-**Randomized Question Count:** Each quiz session should present a randomized number of questions to the user.
+**Randomized Question Count:** Each quiz session presents a randomized number of questions to the user.
 
 ## Ⅲ. User-Side Requirements
 **User Identification:** Users are able to enter their name.
@@ -74,6 +74,6 @@ cd `https://github.com/LindiweD-Collab/techquizapp`
 
 
 ## Ⅷ. Submission Requirements
-**Hosted Application:** The final quiz application will hosted online and publicly accessible.
+**Hosted Application:** The final quiz application hosted online and publicly accessible on https://techquizapp.vercel.app/
 
 **Source Code:** https://github.com/LindiweD-Collab/techquizapp
